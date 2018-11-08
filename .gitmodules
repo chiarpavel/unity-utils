@@ -1,0 +1,12 @@
+[submodule "ui-navigation"]
+	path = ui-navigation
+	url = https://github.com/chiarpavel/ui-navigation
+[submodule "build-manager"]
+	path = build-manager
+	url = https://github.com/chiarpavel/build-manager
+[submodule "pooling"]
+	path = pooling
+	url = https://github.com/chiarpavel/pooling
+[submodule "debug-text"]
+	path = debug-text
+	url = https://github.com/chiarpavel/debug-text
